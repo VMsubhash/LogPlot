@@ -44,8 +44,4 @@ Replace `main.py` with the name of your Python script. Add more options to PyIns
 
 ## Screenshots
 
-![Alt text](/path/to/img.png) "Optional Title"
-
-### More Screenshots
-
-![Alt text](/path/to/another.png) "Optional Title"
+![Alt text](Screenshot.png) "Log plot"
